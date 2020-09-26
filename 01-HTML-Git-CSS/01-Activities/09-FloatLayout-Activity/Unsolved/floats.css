@@ -18,6 +18,11 @@ header {
 }
 
 section {
+  color: green;
+  padding: 20px;
+  background-color: red;
+  font-weight: bold;
+  float: left;
 }
 
 #left {
